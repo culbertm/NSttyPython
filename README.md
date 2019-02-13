@@ -14,6 +14,7 @@ CLI, you will know how to use NsStty Python.
 ## Getting Started
 ## Contributors
 ## Maintainers
+Mitch Culbert
 ## License
 NStty Python is free software.  You can redistribute and modify it under the
 terms of the Apache License.  See LICENSE.txt for details.
