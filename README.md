@@ -10,7 +10,7 @@ The Nitro API can be cumbersome to those sysadmins who just want to use
 the functionality of the NetScaler through the API, but don't want to 
 be forced to learn programming for REST APIs, json, and the myriad of 
 other caveats that come with using Nitro. If you know how to use the 
-CLI, you will know how to use NsStty Python.
+CLI, you will know how to use NaStty Python.
 ## Getting Started
 ## Contributors
 ## Maintainers
